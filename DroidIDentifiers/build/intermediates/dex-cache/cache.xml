@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_524ec62dc1782c2b59884f5394a6e7c2422ccbf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_621a25ad461b15656d5a7deb98179c85fc38bc68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_53ea016d97f3bb11ed0c65fb50caec486e967b17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_db9a396bbde152eb6eb662a156ec2c7bac50b3b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_34ae0cd976f7241d79089105c923e30c4228f5df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_fe4a2aee3956396520379ef270fb342963093d34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_f10b39a8440973aef9f6fb91b271900d88ec1b44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_6803fee043cc7fd8afe5b31fb66eaa6f3c98124e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_7c60f2f45152f8cb5164d6a9f93175e689e86547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_ecb40faa092af6462670d9e562274a3e664d1d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_3167ff7083ee0c6570103f160fddee8a4d84c718/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_e2f08f684ddb9fd6e9285964a03f39ce8d815217/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_cd41f5cf4e2b46552c2d8b698a6c2fafacc9fd50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_8516e93484f7bae101e54591aa7d367eade6ad7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_f5e84a87a7ed9f4e3c67d64b48e14ce25e89e522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_b7ffd5a8aef93dbf87ce13cfa2b5ad030270ca8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_470f9740a08dafa0014f00b13d85bfd286c2154a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_150a95215cc35532f239d35d21cfaa3cc2ec2e08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_4eed6968add39ab9211e83fd783adf2692f97d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_fbaf637da37abbb909c7dd5eea6493f0f4c9c6e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_d2bd99d8e0b7131e999672f4ac30b6e4c7c26b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_277a12d3f1d68692f47d5c5cff194677578cec77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_699b7fb8a48d44948fe9da3860d12be7fe25db49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2120b3ecd3959b82cf5fb9b2ff402d841e65e785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_4b263b53e474fbde52e48fef6396278b0a58e1be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_cfbced04eb03823a1502a1fd2bb4c8915394b3e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_8be97d764e381e39a5638796f13841cd6ec07e59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_53f9faa5f51dd895b013dceedd4e2d8e2a845693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_4c9f0434f75e5830bd8d88586aba6c28c25f491d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_77092fda61fb463e6b04276184778b5c45d6a110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_c5a8bed06967ffd266956f22d9a7ce75ff647037/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_23ff17a3cd5d3b5db365cf3367180a7682846b2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_ad38ad2426ac6811abaf0cb29801e049321daea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_513bc230ef298c7eca20da74aa9ac56118e2910d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_1ca37a28d20dbb06395a8d47fe203cf6e4102254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_ca56d290a1c35c9d25e674f4146021fdca0d8f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_a28c31d0781cf8a0ebf798582bc8ade2803119c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3a08e5da1a16abc4d7fc280ae56a8766d349f213/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_f3e985063db2f0c529829ed7a71384573bca83df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_36d6ebf17168e89f22e550289d5984b5f3a15cf4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_72f911592f2b60af916071b023415138bbae8b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_5b4a15012afba4e0525a892f8583c1a390d003e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_25ca38fbdbc0068215bab9ffd8c7f7f87d9dc55e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_feb50524e7b099adce4a90a1386aa1ee2d315d94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_b7c64bbd425a3861f635696322ed2baa41e44a65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_cfa3d3291b641ff358ebb4dc4308b3f8a0b97096/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_d952470ec4f1b12dd4003dee970aa2109bf7c412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_1429a1ef45ae7bcf3a308d7b6e7a852652f72f91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_31d7c4c21e389135448f09aeb0241f53d726981a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_7befbe4888d3e779f207ba44adf0657a4f6d0d3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_b52255dde8c886740ba04662d9481beea6c9f4f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_1549949aa9e035eb270d0098fe1275ae631dfee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_2d6d3bb55871589c8c5e383549add122c324dec5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1530cc4d49dd0884835f40b8b1fc08ed9ba0652f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_6b9e11318a6a5dbfd21587454630c153ee7ea6f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_4cb2be9301341cc4354c1e7508909b36bb4c15e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c0d4988f11a061580bfc39eb77e5f83b48a9696f">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_128979faf6febf12954638a42c31a7f8b9d1c816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_dee61be5a8981b4f8af921815cc08b10b5019a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="41cb243a6dc8e9afd5d0104db0bfc10c9ee6e268">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3cc10548a990e1ab7ea7db53abaa0541e2d0b149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_80a5bd2564a91b73c95daa3d32a39b50d363d295/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_16d81599c5b7391ba3541fd893db49ad0961c03e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_8ea9ee52660b46a8bf196f5dd88b4feb1dcc70f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_0b8c5394b03a94b690f5e5bc668bdfc579a2d105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_b20dfc5e9a648f0eeb3a4a90e7d69e870588a923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_3fe1fcab4c57f9e1d8f03d00112f41a31bc0f126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_9e9d2cfb51a0da67cd8652613e849eac88ee0be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_5b762cbbbe63d0e91cc4b87b355512392bfb8c75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_c780e3e0ccd06f78a49d3068f62ce17f191612a5/classes.dex" />
+    </item>
+
+</items>

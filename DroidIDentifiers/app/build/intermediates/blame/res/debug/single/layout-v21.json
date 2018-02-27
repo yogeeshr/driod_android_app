@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ryogeesh/Documents/Personal/work/github/driod_android_app/DroidIDentifiers/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/ryogeesh/Documents/Personal/work/github/driod_android_app/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    }
+]

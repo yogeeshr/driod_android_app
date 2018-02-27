@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="24"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="27092524352645"
+    token="-6323525782561856490"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="86" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="12" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="24282173836528"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="25211591495388"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="26608167645068"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="27092524352645"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/yogeesh.rajendra/Desktop/DroidIDentifiers/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
